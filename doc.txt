@@ -1,0 +1,18 @@
+
+Article publish
+	article file
+	report file
+Article writing
+	no file upload
+
+
+apis
+video 
+front-end form
+
+
+payment structure
+
+1-api - body validation db comunication
+2-api - getting data
+3-api - email push
